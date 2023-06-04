@@ -1,4 +1,8 @@
+![desc.png](https://repository-images.githubusercontent.com/590612949/f30b5311-7513-4401-9c19-59758985315f)
+
 # 忻视Down
+
+<a href ="https://github.com/Yos-X/YBVD_Release/releases"><img src="https://img.shields.io/github/v/release/Yos-X/YBVD_Release"/></a> <a href ="https://github.com/Yos-X/YBVD_Release/stargazers"><img src="https://img.shields.io/github/stars/Yos-X/YBVD_Release"/></a> <a href ="https://github.com/Yos-X/YBVD_Release/issues"><img src="https://img.shields.io/github/issues/Yos-X/YBVD_Release"/></a> <a href ="https://github.com/Yos-X/YBVD_Release/releases"><img src="https://img.shields.io/github/downloads/Yos-X/YBVD_Release/latest/total"/></a>
 
 忻视Down (YosBiliVideoDown) 一款安卓端解析并下载B站视频的软件，目前已支持下载视频、音频、~~弹幕~~、字幕。
 
