@@ -18,19 +18,19 @@
 
 > 主页
 
-![image](https://github.com/YosStudio/YBVD_Release/blob/main/Home.jpg?raw=true)
+![image](https://github.com/YosStudio/YBVD_Release/blob/main/1.png?raw=true)
 
 > 稿件详情
 
-![image](https://github.com/YosStudio/YBVD_Release/blob/main/Info.jpg?raw=true)
+![image](https://github.com/YosStudio/YBVD_Release/blob/main/2.jpg?raw=true)
 
 > 稿件详情 菜单
 
-![image](https://github.com/YosStudio/YBVD_Release/blob/main/Info_Blur.jpg?raw=true)
+![image](https://github.com/YosStudio/YBVD_Release/blob/main/3.jpg?raw=true)
 
 > Part 详情
 
-![image](https://github.com/YosStudio/YBVD_Release/blob/main/PartInfo_Menu.jpg?raw=true)
+![image](https://github.com/YosStudio/YBVD_Release/blob/main/4.jpg?raw=true)
 
 ### 使用介绍
 
