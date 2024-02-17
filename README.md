@@ -28,4 +28,4 @@
 
 ### 使用介绍
 
-参见 [YosX 官网](https://yos-x.github.io/docs/category/%E5%BF%BB%E8%A7%86down)
+参见 [Yos-X 官网](https://yos-x.github.io/docs/category/%E5%BF%BB%E8%A7%86down)
